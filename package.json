@@ -1,0 +1,24 @@
+{
+  "name": "taller-refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber": "^5.1.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscopugh/Taller-Refactoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscopugh/Taller-Refactoring/issues"
+  },
+  "homepage": "https://github.com/franciscopugh/Taller-Refactoring#readme"
+}
